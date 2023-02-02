@@ -19,10 +19,10 @@ Incomplete Data Example
 
 ## 17K
 
-After data cleaning, the data we obtained does contain 17k relations, all of which are different predicates. Specific predicate information can be viewed in the file  [raw_predicate_information.csv](./raw predicate information.csv)
+After data cleaning, the data we obtained does contain 17k relations, all of which are different predicates. Specific predicate information can be viewed in the file  [raw_predicate_information.csv](./raw_predicate_information.csv)
 
 
 
 ## S-DBpedia relationship
 
-S-DBpedia relationships can be viewed in the file  [S-DBpedia_relationships.csv](./S-DBpedia relationships.csv)
+S-DBpedia relationships can be viewed in the file  [S-DBpedia_relationships.csv](./S-DBpedia_relationships.csv)
